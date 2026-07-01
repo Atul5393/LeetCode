@@ -6,6 +6,7 @@ leetcode DSA Solutions
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Atul5393/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Atul5393/LeetCode/tree/master/0011-container-with-most-water) |
 ## Two Pointers
 |  |
@@ -15,4 +16,12 @@ leetcode DSA Solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Atul5393/LeetCode/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Atul5393/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Atul5393/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
