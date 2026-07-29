@@ -8,6 +8,7 @@ leetcode DSA Solutions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Atul5393/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Atul5393/LeetCode/tree/master/0011-container-with-most-water) |
+| [0136-single-number](https://github.com/Atul5393/LeetCode/tree/master/0136-single-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Atul5393/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -37,4 +38,8 @@ leetcode DSA Solutions
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/Atul5393/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Atul5393/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
