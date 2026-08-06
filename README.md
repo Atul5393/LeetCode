@@ -33,6 +33,7 @@ leetcode DSA Solutions
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Atul5393/LeetCode/tree/master/0009-palindrome-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Atul5393/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
