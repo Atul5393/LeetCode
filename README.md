@@ -16,6 +16,7 @@ leetcode DSA Solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Atul5393/LeetCode/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/Atul5393/LeetCode/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
@@ -68,4 +69,5 @@ leetcode DSA Solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Atul5393/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/Atul5393/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
