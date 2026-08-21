@@ -9,6 +9,7 @@ leetcode DSA Solutions
 | [0004-median-of-two-sorted-arrays](https://github.com/Atul5393/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Atul5393/LeetCode/tree/master/0011-container-with-most-water) |
 | [0136-single-number](https://github.com/Atul5393/LeetCode/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/Atul5393/LeetCode/tree/master/0162-find-peak-element) |
 | [0435-non-overlapping-intervals](https://github.com/Atul5393/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1004-max-consecutive-ones-iii](https://github.com/Atul5393/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Atul5393/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -27,6 +28,7 @@ leetcode DSA Solutions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Atul5393/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0162-find-peak-element](https://github.com/Atul5393/LeetCode/tree/master/0162-find-peak-element) |
 | [1004-max-consecutive-ones-iii](https://github.com/Atul5393/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
