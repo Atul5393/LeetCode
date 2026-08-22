@@ -8,6 +8,7 @@ leetcode DSA Solutions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Atul5393/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Atul5393/LeetCode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Atul5393/LeetCode/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/Atul5393/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Atul5393/LeetCode/tree/master/0162-find-peak-element) |
 | [0435-non-overlapping-intervals](https://github.com/Atul5393/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -18,6 +19,7 @@ leetcode DSA Solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Atul5393/LeetCode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Atul5393/LeetCode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Atul5393/LeetCode/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
