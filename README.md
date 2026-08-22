@@ -44,6 +44,7 @@ leetcode DSA Solutions
 | ------- |
 | [0009-palindrome-number](https://github.com/Atul5393/LeetCode/tree/master/0009-palindrome-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Atul5393/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Atul5393/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Matrix
 |  |
 | ------- |
