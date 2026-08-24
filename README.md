@@ -9,6 +9,7 @@ leetcode DSA Solutions
 | [0004-median-of-two-sorted-arrays](https://github.com/Atul5393/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Atul5393/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Atul5393/LeetCode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Atul5393/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Atul5393/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Atul5393/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Atul5393/LeetCode/tree/master/0162-find-peak-element) |
@@ -22,6 +23,7 @@ leetcode DSA Solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/Atul5393/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Atul5393/LeetCode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Atul5393/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Atul5393/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Atul5393/LeetCode/tree/master/0125-valid-palindrome) |
 ## Greedy
@@ -79,6 +81,7 @@ leetcode DSA Solutions
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Atul5393/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Atul5393/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0435-non-overlapping-intervals](https://github.com/Atul5393/LeetCode/tree/master/0435-non-overlapping-intervals) |
 ## String
@@ -91,4 +94,12 @@ leetcode DSA Solutions
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/Atul5393/LeetCode/tree/master/1927-sum-game) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Atul5393/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Atul5393/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
