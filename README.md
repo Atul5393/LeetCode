@@ -18,6 +18,7 @@ leetcode DSA Solutions
 | [1004-max-consecutive-ones-iii](https://github.com/Atul5393/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Atul5393/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2965-find-missing-and-repeated-values](https://github.com/Atul5393/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Atul5393/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@ leetcode DSA Solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Atul5393/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2965-find-missing-and-repeated-values](https://github.com/Atul5393/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Atul5393/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
