@@ -47,6 +47,7 @@ leetcode DSA Solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Atul5393/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Atul5393/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2965-find-missing-and-repeated-values](https://github.com/Atul5393/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Atul5393/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
@@ -69,6 +70,7 @@ leetcode DSA Solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Atul5393/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/Atul5393/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Atul5393/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Atul5393/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
@@ -91,6 +93,7 @@ leetcode DSA Solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Atul5393/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Atul5393/LeetCode/tree/master/0125-valid-palindrome) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Atul5393/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/Atul5393/LeetCode/tree/master/1927-sum-game) |
 ## Game Theory
 |  |
