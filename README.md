@@ -61,6 +61,7 @@ leetcode DSA Solutions
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Atul5393/LeetCode/tree/master/0009-palindrome-number) |
+| [0342-power-of-four](https://github.com/Atul5393/LeetCode/tree/master/0342-power-of-four) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Atul5393/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1927-sum-game](https://github.com/Atul5393/LeetCode/tree/master/1927-sum-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/Atul5393/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -73,6 +74,7 @@ leetcode DSA Solutions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Atul5393/LeetCode/tree/master/0136-single-number) |
+| [0342-power-of-four](https://github.com/Atul5393/LeetCode/tree/master/0342-power-of-four) |
 ## Sliding Window
 |  |
 | ------- |
@@ -121,4 +123,8 @@ leetcode DSA Solutions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Atul5393/LeetCode/tree/master/0075-sort-colors) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Atul5393/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
