@@ -17,6 +17,7 @@ leetcode DSA Solutions
 | [0435-non-overlapping-intervals](https://github.com/Atul5393/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Atul5393/LeetCode/tree/master/0455-assign-cookies) |
 | [0724-find-pivot-index](https://github.com/Atul5393/LeetCode/tree/master/0724-find-pivot-index) |
+| [0860-lemonade-change](https://github.com/Atul5393/LeetCode/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/Atul5393/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Atul5393/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Atul5393/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -47,6 +48,7 @@ leetcode DSA Solutions
 | [0011-container-with-most-water](https://github.com/Atul5393/LeetCode/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/Atul5393/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Atul5393/LeetCode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Atul5393/LeetCode/tree/master/0860-lemonade-change) |
 | [1927-sum-game](https://github.com/Atul5393/LeetCode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Atul5393/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Atul5393/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
