@@ -23,6 +23,7 @@ leetcode DSA Solutions
 | [1248-count-number-of-nice-subarrays](https://github.com/Atul5393/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Atul5393/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Atul5393/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Atul5393/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Atul5393/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Atul5393/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Atul5393/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -39,6 +40,7 @@ leetcode DSA Solutions
 | [0125-valid-palindrome](https://github.com/Atul5393/LeetCode/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/Atul5393/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Atul5393/LeetCode/tree/master/0455-assign-cookies) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Atul5393/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
 | ------- |
@@ -47,6 +49,7 @@ leetcode DSA Solutions
 | [0455-assign-cookies](https://github.com/Atul5393/LeetCode/tree/master/0455-assign-cookies) |
 | [1927-sum-game](https://github.com/Atul5393/LeetCode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Atul5393/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Atul5393/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,6 +131,7 @@ leetcode DSA Solutions
 | [0349-intersection-of-two-arrays](https://github.com/Atul5393/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Atul5393/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Atul5393/LeetCode/tree/master/0455-assign-cookies) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Atul5393/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
 | ------- |
