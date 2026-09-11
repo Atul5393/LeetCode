@@ -17,6 +17,7 @@ leetcode DSA Solutions
 | [0349-intersection-of-two-arrays](https://github.com/Atul5393/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Atul5393/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Atul5393/LeetCode/tree/master/0455-assign-cookies) |
+| [0560-subarray-sum-equals-k](https://github.com/Atul5393/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Atul5393/LeetCode/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/Atul5393/LeetCode/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/Atul5393/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -73,6 +74,7 @@ leetcode DSA Solutions
 | [0242-valid-anagram](https://github.com/Atul5393/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Atul5393/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Atul5393/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/Atul5393/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Atul5393/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Atul5393/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Atul5393/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -116,6 +118,7 @@ leetcode DSA Solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Atul5393/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Atul5393/LeetCode/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Atul5393/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Atul5393/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
