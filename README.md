@@ -169,9 +169,14 @@ leetcode DSA Solutions
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Atul5393/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0342-power-of-four](https://github.com/Atul5393/LeetCode/tree/master/0342-power-of-four) |
 ## Counting
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Atul5393/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Atul5393/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
