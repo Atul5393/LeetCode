@@ -10,6 +10,7 @@ leetcode DSA Solutions
 | [0011-container-with-most-water](https://github.com/Atul5393/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Atul5393/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Atul5393/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0055-jump-game](https://github.com/Atul5393/LeetCode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Atul5393/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Atul5393/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Atul5393/LeetCode/tree/master/0136-single-number) |
@@ -48,6 +49,7 @@ leetcode DSA Solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Atul5393/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Atul5393/LeetCode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Atul5393/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Atul5393/LeetCode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Atul5393/LeetCode/tree/master/0860-lemonade-change) |
@@ -129,6 +131,7 @@ leetcode DSA Solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Atul5393/LeetCode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Atul5393/LeetCode/tree/master/0435-non-overlapping-intervals) |
 ## Sorting
 |  |
