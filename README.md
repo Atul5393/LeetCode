@@ -88,6 +88,7 @@ leetcode DSA Solutions
 | ------- |
 | [0009-palindrome-number](https://github.com/Atul5393/LeetCode/tree/master/0009-palindrome-number) |
 | [0342-power-of-four](https://github.com/Atul5393/LeetCode/tree/master/0342-power-of-four) |
+| [0836-rectangle-overlap](https://github.com/Atul5393/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Atul5393/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1927-sum-game](https://github.com/Atul5393/LeetCode/tree/master/1927-sum-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/Atul5393/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -179,4 +180,8 @@ leetcode DSA Solutions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Atul5393/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Atul5393/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
