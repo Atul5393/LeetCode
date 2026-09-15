@@ -42,6 +42,7 @@ leetcode DSA Solutions
 | [0075-sort-colors](https://github.com/Atul5393/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Atul5393/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Atul5393/LeetCode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Atul5393/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0349-intersection-of-two-arrays](https://github.com/Atul5393/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Atul5393/LeetCode/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Atul5393/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -73,6 +74,7 @@ leetcode DSA Solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Atul5393/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Atul5393/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/Atul5393/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Atul5393/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Atul5393/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Atul5393/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -180,8 +182,13 @@ leetcode DSA Solutions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Atul5393/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/Atul5393/LeetCode/tree/master/0141-linked-list-cycle) |
 ## Geometry
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Atul5393/LeetCode/tree/master/0836-rectangle-overlap) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Atul5393/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
