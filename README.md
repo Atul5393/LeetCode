@@ -175,6 +175,7 @@ leetcode DSA Solutions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Atul5393/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/Atul5393/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0342-power-of-four](https://github.com/Atul5393/LeetCode/tree/master/0342-power-of-four) |
 ## Counting
 |  |
@@ -185,6 +186,7 @@ leetcode DSA Solutions
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Atul5393/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Atul5393/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/Atul5393/LeetCode/tree/master/0203-remove-linked-list-elements) |
 ## Geometry
 |  |
 | ------- |
