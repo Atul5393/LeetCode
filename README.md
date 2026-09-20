@@ -159,6 +159,7 @@ leetcode DSA Solutions
 | [0424-longest-repeating-character-replacement](https://github.com/Atul5393/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Atul5393/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/Atul5393/LeetCode/tree/master/1927-sum-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/Atul5393/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Game Theory
 |  |
 | ------- |
@@ -200,4 +201,8 @@ leetcode DSA Solutions
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Atul5393/LeetCode/tree/master/0141-linked-list-cycle) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Atul5393/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
