@@ -41,6 +41,7 @@ leetcode DSA Solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/Atul5393/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Atul5393/LeetCode/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/Atul5393/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Atul5393/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Atul5393/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Atul5393/LeetCode/tree/master/0125-valid-palindrome) |
@@ -193,6 +194,7 @@ leetcode DSA Solutions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Atul5393/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/Atul5393/LeetCode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Atul5393/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Atul5393/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Atul5393/LeetCode/tree/master/0203-remove-linked-list-elements) |
