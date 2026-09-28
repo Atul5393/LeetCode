@@ -168,6 +168,7 @@ leetcode DSA Solutions
 | [0387-first-unique-character-in-a-string](https://github.com/Atul5393/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Atul5393/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Atul5393/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Atul5393/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/Atul5393/LeetCode/tree/master/1927-sum-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Atul5393/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Game Theory
@@ -227,6 +228,7 @@ leetcode DSA Solutions
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Atul5393/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Atul5393/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -236,4 +238,8 @@ leetcode DSA Solutions
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Atul5393/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Atul5393/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Atul5393/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
