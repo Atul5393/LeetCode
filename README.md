@@ -98,6 +98,7 @@ leetcode DSA Solutions
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Atul5393/LeetCode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Atul5393/LeetCode/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/Atul5393/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Atul5393/LeetCode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Atul5393/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -189,6 +190,7 @@ leetcode DSA Solutions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Atul5393/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Atul5393/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Atul5393/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Atul5393/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/Atul5393/LeetCode/tree/master/0342-power-of-four) |
