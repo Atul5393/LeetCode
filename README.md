@@ -64,6 +64,7 @@ leetcode DSA Solutions
 | [0435-non-overlapping-intervals](https://github.com/Atul5393/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Atul5393/LeetCode/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Atul5393/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/Atul5393/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Atul5393/LeetCode/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/Atul5393/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1927-sum-game](https://github.com/Atul5393/LeetCode/tree/master/1927-sum-game) |
@@ -157,6 +158,7 @@ leetcode DSA Solutions
 | [0435-non-overlapping-intervals](https://github.com/Atul5393/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Atul5393/LeetCode/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Atul5393/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/Atul5393/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Sorting
 |  |
 | ------- |
@@ -181,6 +183,7 @@ leetcode DSA Solutions
 | [0242-valid-anagram](https://github.com/Atul5393/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Atul5393/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Atul5393/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/Atul5393/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Atul5393/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Atul5393/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/Atul5393/LeetCode/tree/master/1927-sum-game) |
@@ -247,6 +250,7 @@ leetcode DSA Solutions
 | [0020-valid-parentheses](https://github.com/Atul5393/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Atul5393/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/Atul5393/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0678-valid-parenthesis-string](https://github.com/Atul5393/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Atul5393/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
@@ -262,6 +266,7 @@ leetcode DSA Solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/Atul5393/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Atul5393/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Atul5393/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Atul5393/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
 |  |
