@@ -104,6 +104,7 @@ leetcode DSA Solutions
 | [1248-count-number-of-nice-subarrays](https://github.com/Atul5393/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Atul5393/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2965-find-missing-and-repeated-values](https://github.com/Atul5393/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Atul5393/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Atul5393/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
@@ -144,6 +145,7 @@ leetcode DSA Solutions
 | [1248-count-number-of-nice-subarrays](https://github.com/Atul5393/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Atul5393/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Atul5393/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Atul5393/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -196,6 +198,7 @@ leetcode DSA Solutions
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Atul5393/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Atul5393/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/Atul5393/LeetCode/tree/master/1927-sum-game) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Atul5393/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Atul5393/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Game Theory
 |  |
