@@ -38,6 +38,7 @@ leetcode DSA Solutions
 | [2965-find-missing-and-repeated-values](https://github.com/Atul5393/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Atul5393/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Atul5393/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Atul5393/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Atul5393/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Atul5393/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Atul5393/LeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -74,6 +75,7 @@ leetcode DSA Solutions
 | [1927-sum-game](https://github.com/Atul5393/LeetCode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Atul5393/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Atul5393/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Atul5393/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -179,6 +181,7 @@ leetcode DSA Solutions
 | [0646-maximum-length-of-pair-chain](https://github.com/Atul5393/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1710-maximum-units-on-a-truck](https://github.com/Atul5393/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Atul5393/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Atul5393/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String
 |  |
 | ------- |
