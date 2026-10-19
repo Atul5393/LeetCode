@@ -33,6 +33,7 @@ leetcode DSA Solutions
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Atul5393/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1710-maximum-units-on-a-truck](https://github.com/Atul5393/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1929-concatenation-of-array](https://github.com/Atul5393/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Atul5393/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Atul5393/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Atul5393/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Atul5393/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -89,6 +90,7 @@ leetcode DSA Solutions
 | [0349-intersection-of-two-arrays](https://github.com/Atul5393/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Atul5393/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Atul5393/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Atul5393/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -187,6 +189,7 @@ leetcode DSA Solutions
 | [0455-assign-cookies](https://github.com/Atul5393/LeetCode/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Atul5393/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1710-maximum-units-on-a-truck](https://github.com/Atul5393/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Atul5393/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Atul5393/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Atul5393/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String
