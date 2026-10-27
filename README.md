@@ -17,6 +17,7 @@ leetcode DSA Solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Atul5393/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Atul5393/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Atul5393/LeetCode/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/Atul5393/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Atul5393/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Atul5393/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Atul5393/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -102,6 +103,7 @@ leetcode DSA Solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/Atul5393/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Atul5393/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Atul5393/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/Atul5393/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Atul5393/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Atul5393/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Atul5393/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -185,6 +187,7 @@ leetcode DSA Solutions
 | ------- |
 | [0075-sort-colors](https://github.com/Atul5393/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Atul5393/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Atul5393/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Atul5393/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Atul5393/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Atul5393/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
