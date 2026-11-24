@@ -14,6 +14,7 @@ leetcode DSA Solutions
 | [0039-combination-sum](https://github.com/Atul5393/LeetCode/tree/master/0039-combination-sum) |
 | [0055-jump-game](https://github.com/Atul5393/LeetCode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Atul5393/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Atul5393/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Atul5393/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Atul5393/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Atul5393/LeetCode/tree/master/0136-single-number) |
@@ -146,6 +147,7 @@ leetcode DSA Solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Atul5393/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Atul5393/LeetCode/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/Atul5393/LeetCode/tree/master/0342-power-of-four) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Atul5393/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -366,4 +368,5 @@ leetcode DSA Solutions
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Atul5393/LeetCode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Atul5393/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
